@@ -56,3 +56,7 @@ All design files live under [`Dyno Enclosure REV_B/`](Dyno%20Enclosure%20REV_B/)
 | `220 - Dyno Setup Assembly.SLDASM` | Top-level full dyno assembly |
 
 Files are native SolidWorks (`.SLDPRT`/`.SLDASM`/`.SLDDRW`), with some parts also provided as `.igs`/`.DXF`/`.pdf` for interchange. Requires SolidWorks (or a compatible viewer) to open.
+
+## License
+
+This work is licensed under [CC BY 4.0](LICENSE).
