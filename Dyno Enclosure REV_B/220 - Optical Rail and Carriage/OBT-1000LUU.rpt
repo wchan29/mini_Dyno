@@ -1,0 +1,73 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : OBT-1000LUU-01-S01.ipt
+Receiving System Product I.D.: OBT-1000LUU-01-S01.ipt
+File Name                    : No Iges File Name specified
+Sending System               : AutoDesk Inventor R12.0
+Preprocessor Version         : AutoDesk Inventor Iges Exporter R12.0
+File Creation Date           : 20090803.095944
+Model Creation Date          : 
+Units                        : MM
+Model Space Scale            : 1
+Author                       : No Author specified
+Organization                 : No Organization specified
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                     14
+  Average number of significant digits:                3.29169
+  Maximum distance to origin:                          553.229
+  Minimum distance to origin:                             63.5
+  Effective number of significant digits:              13.8999
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             60        60
+104  Conic arc                                        4         4
+110  Line                                           260       260
+116  Point                                           66        66
+120  Surface of revolution                           30        30
+123  Direction                                      132       132
+124  Transformation matrix                           62        62
+186  Manifold Solid B-rep Object                      1         1
+190  Plane surface entity                            64        64
+192  Right circular cylindrical surface               2         2
+314  Color definition                                 1         1
+406  Property                                         1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                    114       114
+510  Face entity                                     96        96
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, October 30, 2017 13:16:49
+Finish time: Monday, October 30, 2017 13:16:52
+Processing time: 0 days, 00 hours, 00 mins, 03 secs
